@@ -1,0 +1,16 @@
+body {
+    background: #000;
+    color: azure;
+    margin: 0px;
+    padding: 0px;
+}
+
+.centro {
+    display: flex;
+    justify-items: center;
+    box-shadow: 10 0 0px;
+    border:10px solid #ff0000 ;
+    border-radius: 25px;
+    margin-top: 50%;
+    margin-bottom: 50%;
+}
